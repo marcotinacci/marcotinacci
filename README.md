@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Marco</h1>
 
-- 🔭 I’m currently working on [hearth.co.uk](https://www.hearth.co.uk/)
-
 - 🌱 I’m currently learning **DevOps, MLOps**
 
 - 💬 Ask me about **Game Theory**
