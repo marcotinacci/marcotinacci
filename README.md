@@ -4,7 +4,7 @@
 
 - 💬 Ask me about **Game Theory**
 
-- 📫 How to reach me [tinacci.marco at gmail.com](mailto:tinacci.marco+github@gmail.com)
+- 📫 How to reach me tinacci.marco at gmail dot com
 
 - 📄 Know about my experiences [https://marcotinacci.github.io/](https://marcotinacci.github.io/)
 
